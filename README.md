@@ -1,1 +1,1 @@
-https://module1checkpoint2.netlify.app/
+https://module-2-widya.netlify.app/
