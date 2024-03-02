@@ -53,7 +53,7 @@ Make sure that your repository is NOT private. Please change it to Public in Git
 ![alt text](https://github.com/RevoU-FSSE-4/module-2-wwliurevou/blob/main/asset/deploy.png)
 
 6. You will then be directed to this page, you can check the deploy log if you see any error
-![alt text](https://github.com/revou-fsse-3/milestone-1-wwliurevou/blob/main/asset/deploy3.PNG)
+![alt text](https://github.com/RevoU-FSSE-4/module-2-wwliurevou/blob/main/asset/deploylog.png)
 
 7. As you can see the status on display log are all completed.
 ![alt text](https://github.com/RevoU-FSSE-4/module-2-wwliurevou/blob/main/asset/deploycompleted.png)
