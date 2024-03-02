@@ -1,5 +1,5 @@
 Welcome to my website.
-Please find it here : https://module-2-widya.netlify.app/
+Please find it here : https://widyaliu.site/
 Here are the instructions on how to deploy my website from github to the custom domain.
 
 ## Table of contents
